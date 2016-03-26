@@ -1,0 +1,19 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Mace",
+    "icon": "mace-head",
+    "contents": [
+      "subtitle | Simple Melee Weapon (5gp)",
+      "rule",
+      "property | Damage | 1d6 bludgeoning",
+      "property | Modifier | Strength",
+      "rule"
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]

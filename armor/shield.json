@@ -1,0 +1,20 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Shield",
+    "icon": "checked-shield",
+    "contents": [
+      "subtitle | Shield (10gp)",
+      "rule",
+      "property | Armor Class | +2",
+      "property | Weight | 6lb.",
+      "rule",
+      "text | Made of metal, a shield is carried in one hand.  You can benefit from only one shield at a time."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  }
+]

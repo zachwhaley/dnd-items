@@ -1,0 +1,22 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Spear",
+    "icon": "arrowhead",
+    "contents": [
+      "subtitle | Simple Melee Weapon (1gp)",
+      "rule",
+      "property | Damage | 1d6 piercing",
+      "property | Modifier | Strength",
+      "property | Properties | Thrown(20/60), Versatile(1d8)",
+      "rule",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range.",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]

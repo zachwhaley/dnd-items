@@ -1,0 +1,20 @@
+[
+  {
+    "count": 1,
+    "color": "dimgray",
+    "title": "Studded Leather",
+    "icon": "breastplate",
+    "contents": [
+      "subtitle | Light Armor (45gp)",
+      "rule",
+      "property | Armor Class | 12 + Dex modifier",
+      "property | Weight | 13lb.",
+      "rule",
+      "text | Made from tough flexible leather, studded leather is reinforced with close-set rivets or spikes"
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  }
+]

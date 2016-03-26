@@ -1,0 +1,23 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Light Spear",
+    "icon": "arrowhead",
+    "contents": [
+      "subtitle | Simple Melee Weapon (?gp)",
+      "rule",
+      "property | Damage | 1d6 piercing",
+      "property | Modifier | Strength",
+      "property | Properties | Thrown(20/60), Versatile(1d8), Light",
+      "rule",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range.",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed.",
+      "description | Light | When you duel wield light weapons, you can use a bonus action to attack with your off hand without adding ability mods to the damage."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]

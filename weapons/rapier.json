@@ -1,0 +1,21 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Rapier",
+    "icon": "sword-hilt",
+    "contents": [
+      "subtitle | Martial Melee Weapon (25gp)",
+      "rule",
+      "property | Damage | 1d8 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Finesse",
+      "rule",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage rolls."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]

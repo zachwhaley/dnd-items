@@ -1,0 +1,21 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Scale Mail",
+    "icon": "breastplate",
+    "contents": [
+      "subtitle | Medium Armor (50gp)",
+      "rule",
+      "property | Armor Class | 14 + Dex modifier (max 2)",
+      "property | Stealth | Disadvantage",
+      "property | Weight | 45lb.",
+      "rule",
+      "text | This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  }
+]

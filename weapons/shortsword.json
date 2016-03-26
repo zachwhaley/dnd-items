@@ -1,0 +1,22 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Shortsword",
+    "icon": "crossed-swords",
+    "contents": [
+      "subtitle | Martial Melee Weapon (10gp)",
+      "rule",
+      "property | Damage | 1d6 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Finesse, Light",
+      "rule",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage rolls.",
+      "description | Light | When you duel wield light weapons, you can use a bonus action to attack with your off hand without adding ability mods to the damage."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]

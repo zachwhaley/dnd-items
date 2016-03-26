@@ -1,0 +1,19 @@
+[
+  {
+    "count": 2,
+    "color": "maroon",
+    "title": "Potion of Healing",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Common",
+      "rule",
+      "property | Restored HP | 2d4+2",
+      "rule",
+      "text | The potion's red liquid glimmers when agitated."
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  }
+]
