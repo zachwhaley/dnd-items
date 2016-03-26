@@ -1,0 +1,17 @@
+[
+  {
+    "count": 1,
+    "color": "indigo",
+    "title": "Gaming Set",
+    "icon": "poker-hand",
+    "contents": [
+      "subtitle | Tools",
+      "rule",
+      "text | This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante).",
+      "text | If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency."
+    ],
+    "tags": [
+      "item"
+    ]
+  }
+]

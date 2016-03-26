@@ -1,0 +1,17 @@
+[
+  {
+    "count": 1,
+    "color": "indigo",
+    "title": "Forgery Kit",
+    "icon": "fountain-pen",
+    "contents": [
+      "subtitle | Tools",
+      "rule",
+      "text | This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents.",
+      "text | Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document."
+    ],
+    "tags": [
+      "item"
+    ]
+  }
+]

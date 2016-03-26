@@ -1,0 +1,17 @@
+[
+  {
+    "count": 1,
+    "color": "indigo",
+    "title": "Poisoner’s Kit",
+    "icon": "poison-bottle",
+    "contents": [
+      "subtitle | Tools",
+      "rule",
+      "text | A poisoner’s kit includes the vials, chemicals, and other equipment necessary for the creation of poisons.",
+      "text | Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons."
+    ],
+    "tags": [
+      "item"
+    ]
+  }
+]
