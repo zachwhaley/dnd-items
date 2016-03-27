@@ -1,11 +1,14 @@
 [
   {
-    "count": 2,
+    "count": "1",
     "color": "maroon",
     "title": "Antitoxin",
     "icon": "drink-me",
     "contents": [
       "subtitle | Common",
+      "rule",
+      "property | Saving Throws | Adv. against poison",
+      "property | Duration | 1 hour",
       "rule",
       "text | A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs."
     ],

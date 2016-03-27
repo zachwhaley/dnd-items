@@ -1,0 +1,21 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Longsword",
+    "icon": "sword",
+    "contents": [
+      "subtitle | Martial Melee Weapon (15gp)",
+      "rule",
+      "property | Damage | 1d8 slashing",
+      "property | Modifier | Strength",
+      "property | Properties | Versatile(1d10)",
+      "rule",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]
