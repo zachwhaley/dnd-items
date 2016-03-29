@@ -3,7 +3,7 @@
     "count": "1",
     "color": "dimgray",
     "title": "Dagger",
-    "icon": "daggers",
+    "icon": "plain-dagger",
     "contents": [
       "subtitle | Simple Melee Weapon (2gp)",
       "rule",
