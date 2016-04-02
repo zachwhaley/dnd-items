@@ -1,0 +1,25 @@
+[
+  {
+    "count": 1,
+    "color": "darkblue",
+    "title": "The Necromancer's Staff",
+    "icon": "wizard-staff",
+    "contents": [
+      "subtitle | Uncommon (requires attunement)",
+      "rule",
+      "property | Damage | 1d6 Buldgeoning",
+      "property | Modifier | Strength",
+      "property | Properties | Versatile(1d8)",
+      "rule",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed.",
+      "rule",
+      "text | You have a +1 bonus to attack and damage rolls",
+      "text | Staff deals necrotic damage"
+    ],
+    "tags": [
+      "item",
+      "weapon",
+      "magic"
+    ]
+  }
+]

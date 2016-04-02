@@ -1,0 +1,30 @@
+[
+  {
+    "count": 1,
+    "color": "darkblue",
+    "title": "Staff of Defense",
+    "icon": "wizard-staff",
+    "contents": [
+      "subtitle | Rare (requires attunement)",
+      "rule",
+      "property | Armor Class | +1",
+      "property | Damage | 1d6 Bludgeoning",
+      "property | Modifier |  Strength",
+      "property | Properties | Versatile(1d8)",
+      "property | Charges | Max 10, Recharge 1d6+4/day",
+      "property | Depletion | Roll a d20. On a 1, the staff shatters and is destroyed.",
+      "rule",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed.",
+      "fill | 2",
+      "section | Spells",
+      "bullet | Mage Armor (1 charge)",
+      "bullet | Shield (2 charges)",
+      "boxes | 10 | 1.67"
+    ],
+    "tags": [
+      "item",
+      "weapon",
+      "magic"
+    ]
+  }
+]

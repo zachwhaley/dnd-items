@@ -1,0 +1,22 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Net",
+    "icon": "fishing-net",
+    "contents": [
+      "subtitle | Martial Melee Weapon (1gp)",
+      "rule",
+      "property | Armor Class | 10",
+      "property | Health Points | 5 Slashing",
+      "property | Properties | Special, Thrown(5/15)",
+      "rule",
+      "description | Special | A large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success.",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]
