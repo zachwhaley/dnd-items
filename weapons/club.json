@@ -1,0 +1,21 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Club",
+    "icon": "sword-spade",
+    "contents": [
+      "subtitle | Simple Melee Weapon (1sp)",
+      "rule",
+      "property | Damage | 1d4 bludgeoning",
+      "property | Modifier | Strength",
+      "property | Properties | Light",
+      "rule",
+      "description | Light | When you duel wield light weapons, you can use a bonus action to attack with your off hand without adding ability mods to the damage."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]
