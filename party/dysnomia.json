@@ -1,0 +1,117 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Crossbow, Light",
+    "icon": "crossbow",
+    "contents": [
+      "subtitle | Simple Melee Weapon (25gp)",
+      "rule",
+      "property | Damage | 1d8 piercing",
+      "property | Modifier | Dexterity",
+      "property | Properties | Range(80/320), Loading, Two-Handed",
+      "rule",
+      "description | Range | When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.",
+      "description | Loading | You can only fire one round per turn.",
+      "description | Two-Handed | Requires two hands when you attack."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Shortsword",
+    "icon": "crossed-swords",
+    "contents": [
+      "subtitle | Martial Melee Weapon (10gp)",
+      "rule",
+      "property | Damage | 1d6 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Finesse, Light",
+      "rule",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage rolls.",
+      "description | Light | When you duel wield light weapons, you can use a bonus action to attack with your off hand without adding ability mods to the damage."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Shield",
+    "icon": "round-shield",
+    "contents": [
+      "subtitle | Shield (10gp)",
+      "rule",
+      "property | Armor Class | +2",
+      "property | Weight | 6lb.",
+      "rule",
+      "text | Made of wood, a shield is carried in one hand.  You can benefit from only one shield at a time."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Dagger",
+    "icon": "plain-dagger",
+    "contents": [
+      "subtitle | Simple Melee Weapon (2gp)",
+      "rule",
+      "property | Damage | 1d4 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Finesse, Light, Thrown(20/60)",
+      "rule",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage rolls.",
+      "description | Light | When you duel wield light weapons, you can use a bonus action to attack with your off hand without adding ability mods to the damage.",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "maroon",
+    "title": "Antitoxin",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Common",
+      "rule",
+      "property | Saving Throws | Adv. against poison",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs."
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "maroon",
+    "title": "Potion of Healing",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Common",
+      "rule",
+      "property | Restored HP | 2d4+2",
+      "rule",
+      "text | The potion's red liquid glimmers when agitated."
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  }
+]

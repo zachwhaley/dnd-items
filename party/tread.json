@@ -1,0 +1,121 @@
+[
+  {
+    "count": 1,
+    "color": "dimgray",
+    "title": "Chain Shirt",
+    "icon": "breastplate",
+    "contents": [
+      "subtitle | Medium Armor (50gp)",
+      "rule",
+      "property | AC | 13 + Dex modifier (max 2)",
+      "property | Weight | 20lb.",
+      "rule",
+      "text | Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer’s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Shield",
+    "icon": "checked-shield",
+    "contents": [
+      "subtitle | Shield (10gp)",
+      "rule",
+      "property | Armor Class | +2",
+      "property | Weight | 6lb.",
+      "rule",
+      "text | Made of metal, a shield is carried in one hand.  You can benefit from only one shield at a time."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Spear",
+    "icon": "arrowhead",
+    "contents": [
+      "subtitle | Simple Melee Weapon (1gp)",
+      "rule",
+      "property | Damage | 1d6 piercing",
+      "property | Modifier | Strength",
+      "property | Properties | Thrown(20/60), Versatile(1d8)",
+      "rule",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range.",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "black",
+    "title": "Light Spear",
+    "icon": "arrowhead",
+    "contents": [
+      "subtitle | Uncommon",
+      "rule",
+      "property | Damage | 1d6 piercing",
+      "property | Modifier | Strength",
+      "property | Properties | Thrown(20/60), Versatile(1d8), Light",
+      "rule",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range.",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed.",
+      "description | Light | When you duel wield light weapons, you can use a bonus action to attack with your off hand without adding ability mods to the damage."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "darkblue",
+    "title": "Longsword \"Talon\"",
+    "icon": "spiral-thrust",
+    "contents": [
+      "subtitle | Uncommon",
+      "rule",
+      "property | Damage | 1d8 slashing",
+      "property | Modifier | Strength",
+      "property | Properties | Versatile(1d10)",
+      "rule",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed.",
+      "rule",
+      "text | You have a +1 bonus to attack and damage rolls"
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Dagger",
+    "icon": "plain-dagger",
+    "contents": [
+      "subtitle | Simple Melee Weapon (2gp)",
+      "rule",
+      "property | Damage | 1d4 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Finesse, Light, Thrown(20/60)",
+      "rule",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage rolls.",
+      "description | Light | When you duel wield light weapons, you can use a bonus action to attack with your off hand without adding ability mods to the damage.",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]

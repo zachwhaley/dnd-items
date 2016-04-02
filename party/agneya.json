@@ -1,0 +1,91 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Scale Mail",
+    "icon": "breastplate",
+    "contents": [
+      "subtitle | Medium Armor (50gp)",
+      "rule",
+      "property | Armor Class | 14 + Dex modifier (max 2)",
+      "property | Stealth | Disadvantage",
+      "property | Weight | 45lb.",
+      "rule",
+      "text | This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Mace",
+    "icon": "mace-head",
+    "contents": [
+      "subtitle | Simple Melee Weapon (5gp)",
+      "rule",
+      "property | Damage | 1d6 bludgeoning",
+      "property | Modifier | Strength",
+      "rule"
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Crossbow, Light",
+    "icon": "crossbow",
+    "contents": [
+      "subtitle | Simple Melee Weapon (25gp)",
+      "rule",
+      "property | Damage | 1d8 piercing",
+      "property | Modifier | Dexterity",
+      "property | Properties | Range(80/320), Loading, Two-Handed",
+      "rule",
+      "description | Range | When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.",
+      "description | Loading | You can only fire one round per turn.",
+      "description | Two-Handed | Requires two hands when you attack."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Shield",
+    "icon": "checked-shield",
+    "contents": [
+      "subtitle | Shield (10gp)",
+      "rule",
+      "property | Armor Class | +2",
+      "property | Weight | 6lb.",
+      "rule",
+      "text | Made of metal, a shield is carried in one hand.  You can benefit from only one shield at a time."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "indigo",
+    "title": "Flute",
+    "icon": "lyre",
+    "contents": [
+      "subtitle | Tools",
+      "rule",
+      "text | If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. Each type of musical instrument requires a separate proficiency."
+    ],
+    "tags": [
+      "item"
+    ]
+  }
+]
