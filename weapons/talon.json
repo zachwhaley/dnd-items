@@ -1,0 +1,23 @@
+[
+  {
+    "count": "1",
+    "color": "darkblue",
+    "title": "Longsword \"Talon\"",
+    "icon": "spiral-thrust",
+    "contents": [
+      "subtitle | Uncommon",
+      "rule",
+      "property | Damage | 1d8 slashing",
+      "property | Modifier | Strength",
+      "property | Properties | Versatile(1d10)",
+      "rule",
+      "description | Versatile | This weapon can be used with two hands. Use Versatile damage value when used two handed.",
+      "rule",
+      "text | You have a +1 bonus to attack and damage rolls"
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  }
+]
