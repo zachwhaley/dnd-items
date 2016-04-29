@@ -1,0 +1,74 @@
+[
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Rapier",
+    "icon": "sword-hilt",
+    "contents": [
+      "subtitle | Martial Melee Weapon (25gp)",
+      "rule",
+      "property | Damage | 1d8 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Finesse",
+      "rule",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage rolls."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": "1",
+    "color": "dimgray",
+    "title": "Dagger",
+    "icon": "plain-dagger",
+    "contents": [
+      "subtitle | Simple Melee Weapon (2gp)",
+      "rule",
+      "property | Damage | 1d4 piercing",
+      "property | Modifier | Strength or Dexterity",
+      "property | Properties | Finesse, Light, Thrown(20/60)",
+      "rule",
+      "description | Finesse | Use your choice of Strength or Dexterity modifier for attack and damage rolls.",
+      "description | Light | When you duel wield light weapons, you can use a bonus action to attack with your off hand without adding ability mods to the damage.",
+      "description | Thrown | You can throw the weapon to make a ranged attack with the given range."
+    ],
+    "tags": [
+      "item",
+      "weapon"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "dimgray",
+    "title": "Leather",
+    "icon": "breastplate",
+    "contents": [
+      "subtitle | Light Armor (10gp)",
+      "rule",
+      "property | Armor Class | 11 + Dex modifier",
+      "property | Weight | 10lb.",
+      "rule",
+      "text | The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials."
+    ],
+    "tags": [
+      "item",
+      "armor"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "indigo",
+    "title": "Musical Instrument",
+    "icon": "lyre",
+    "contents": [
+      "subtitle | Tools",
+      "rule",
+      "text | If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. Each type of musical instrument requires a separate proficiency."
+    ],
+    "tags": [
+      "item"
+    ]
+  }
+]
